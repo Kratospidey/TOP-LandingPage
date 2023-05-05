@@ -1,0 +1,38 @@
+/* html body has default margin which makes the navbar not fully occupy the page */
+body {
+  margin: 0;
+}
+
+/* navbar */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+.navbar {
+  background-color: #1f2937;
+  display: flex;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 5px;
+}
+.header-logo {
+  margin-right: auto;
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.header-link {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.nav-links {
+  display: flex;
+  gap: 16px;
+}
+/* hero */
