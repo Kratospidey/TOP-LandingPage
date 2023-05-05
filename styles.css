@@ -25,10 +25,10 @@ a {
   font-size: 24px;
   color: #f9faf8;
 }
-a:visited { 
-    text-decoration: none; 
-    color: #e5e7eb; 
-   }
+a:visited {
+  text-decoration: none;
+  color: #e5e7eb;
+}
 
 .header-link {
   font-size: 18px;
